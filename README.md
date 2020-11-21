@@ -1,8 +1,10 @@
-# Open-Source-Android-Ransomware
-
 # Android ransomware
 
 After getting the device admin rights, this malicious app will show a ransomware screen.
+
+## Where does this code come from?
+
+This code was obtained by reversing a sample. ***It’s not the original source code***
 
 ## Disclaimer
 
